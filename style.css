@@ -4,13 +4,13 @@
    A commit that says "Switch accent to blue" is a real commit.
    ========================================================== */
 :root {
-    --accent: #F76902;        /* buttons, highlights. Try #009CBD or #7D55C7 */
-    --ink: #1F1F1F;           /* main text */
-    --muted: #6B7280;         /* secondary text */
-    --paper: #FFFFFF;         /* the card */
-    --background: #F3F4F6;    /* the page behind the card */
-    --line: #E5E7EB;          /* borders and rules */
-    --radius: 6px;            /* corner rounding, everywhere */
+    --accent: #F76902;        /* RIT Tiger Orange - primary brand highlight & CTA */
+    --ink: #000000;           /* RIT Black - bold, high-contrast main text */
+    --muted: #5B6770;         /* RIT Dark Gray / Slate - crisp secondary text */
+    --paper: #FFFFFF;         /* Pure White - clean background for cards */
+    --background: #F4F4F6;    /* RIT Light Neutral - soft off-white page background */
+    --line: #E2E4E8;          /* Light border rules to maintain structure */
+    --radius: 6px;            /* Corner rounding */
     --font: "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif;
 }
 
